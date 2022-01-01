@@ -1,0 +1,11 @@
+.container {
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 20px 0;
+  background-color: rgb(239, 239, 252);
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}

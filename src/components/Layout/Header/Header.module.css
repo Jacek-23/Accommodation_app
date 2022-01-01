@@ -1,0 +1,22 @@
+.header {
+  height: 50px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 120px 15px;
+  overflow: hidden;
+  position: relative;
+}
+
+.headerImage {
+  background-color: grey;
+  background: url(../../../assets/images/Noclegi1.jpg) center;
+  background-size: 100%;
+  position: absolute;
+  top: -5%;
+  bottom: -5%;
+  left: -5%;
+  right: -5%;
+  z-index: -1;
+}

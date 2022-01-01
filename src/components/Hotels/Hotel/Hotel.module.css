@@ -1,0 +1,30 @@
+.hotel {
+  margin-bottom: 20px;
+  background-color: rgb(206, 205, 202);
+  
+}
+
+.city {
+  color:black;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.4rem;
+  margin-bottom: 0;
+}
+
+.description {
+  color: grey;
+  margin-top: 10px;
+  font-size: 0.88rem;
+  text-align: justify;
+  margin-bottom: 0px;
+}
+
+.show {
+  justify-content: space-around;
+  align-items: baseline;
+}
